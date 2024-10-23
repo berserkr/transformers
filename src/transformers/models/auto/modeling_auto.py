@@ -950,6 +950,7 @@ MODEL_FOR_SEQUENCE_CLASSIFICATION_MAPPING_NAMES = OrderedDict(
         ("gpt_neo", "GPTNeoForSequenceClassification"),
         ("gpt_neox", "GPTNeoXForSequenceClassification"),
         ("gptj", "GPTJForSequenceClassification"),
+        ("granite", "GraniteForSequenceClassification"),
         ("ibert", "IBertForSequenceClassification"),
         ("jamba", "JambaForSequenceClassification"),
         ("jetmoe", "JetMoeForSequenceClassification"),

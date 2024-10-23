@@ -34,6 +34,7 @@ else:
         "GraniteForCausalLM",
         "GraniteModel",
         "GranitePreTrainedModel",
+        "GraniteForSequenceClassification",
     ]
 
 if TYPE_CHECKING:
@@ -49,6 +50,7 @@ if TYPE_CHECKING:
             GraniteForCausalLM,
             GraniteModel,
             GranitePreTrainedModel,
+            GraniteForSequenceClassification,
         )
 
 else:
